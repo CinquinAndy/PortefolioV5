@@ -1,0 +1,8 @@
+node_modules
+vendor
+.env
+public/themes/twentytwentytwo
+.idea
+composer.lock
+package-lock.json
+.idea/

@@ -1,0 +1,14 @@
+.idea
+node_modules
+public/wordpress
+vendor
+.editorconfig
+.env.example
+.gitignore
+.git
+composer.lock
+maquette-static
+package-lock.json
+README.md
+public/uploads
+.env
