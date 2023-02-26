@@ -67,7 +67,7 @@
                 class="px-6 py-3 mb-4 text-xs bg-indigo-600 rounded xl:text-sm xl:px-10 xl:py-4 xl:mb-0 xl:mr-6">
                 Me contacter
             </button>
-            <button onclick="location.href = '/mes-realisations'"
+            <button onclick="location.href = '/portefolio'"
                     class="px-6 py-3 mb-4 text-xs bg-sky-600 rounded xl:mb-0 xl:text-sm xl:px-10 xl:py-4">Mes réalisations
             </button>
         </div>

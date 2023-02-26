@@ -14,7 +14,7 @@
         </div>
         <div class="flex flex-col col-start-5 col-span-2 xl:col-span-1 gap-10">
             <h2 class="text-sm xl:text-xl font-bold xl:font-normal">SITEMAP</h2>
-            <a class="text-xs xl:text-sm" href="/mes-realisations">Mes projets</a>
+            <a class="text-xs xl:text-sm" href="/portefolio">Mes projets</a>
             <a class="text-xs xl:text-sm" href="/contact">Contact</a>
         </div>
         <div class="flex flex-col col-start-7 col-span-2 xl:col-span-1 gap-10">
