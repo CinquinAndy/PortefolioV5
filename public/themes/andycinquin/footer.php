@@ -6,7 +6,7 @@
             <a class="py-4 text-xs xl:text-base" href="mailto:contact@andy-cinquin.fr">contact@andy-cinquin.fr</a>
             <p class="text-xs xl:text-base">
                 Entrepreneur, SaaS Makers, Co-fondateur de Artriste.cc, Co-fondateur de ForMenu.io,
-                Développeur Freelance, Web, mobile, applicatif, ui/ux, référencement.
+                Développeur Freelance, Web, mobile, applicatif, ui/ux, référencement (SEO/SEA).
                 <br>Création sur-mesure.
                 <br>Optimisation.
                 <br>Création et développement de site web sur Nantes.
