@@ -1,5 +1,6 @@
 <?php if (!is_home()): ?>
-    <footer class="<?= is_page('contact')?'mt-[50vh]':'mt-[100px]' ?> xl:mt-[150px] grid grid-cols-8 p-4 xl:p-20 gap-5">
+    <footer
+        class="<?= is_page('contact') ? 'mt-[50vh]' : 'mt-[100px]' ?> xl:mt-[150px] grid grid-cols-8 p-4 xl:p-20 gap-5">
         <div class="flex flex-col col-span-3 col-start-1 gap-5 text-xs xl:col-span-4 xl:col-start-2">
             <img src="<?= get_template_directory_uri() ?>/assets/Ressources/icons/logov2.svg" alt="Logo"
                  class="w-6 h-6">
