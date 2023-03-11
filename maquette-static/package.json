@@ -13,7 +13,7 @@
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "dependencies": {
-    "@tailwindcss/forms": "^0.4.0",
+    "@tailwindcss/forms": "^0.5.0",
     "acorn": "^7.4.1",
     "acorn-node": "^1.8.2",
     "acorn-walk": "^7.2.0",
