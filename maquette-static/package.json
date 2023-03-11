@@ -58,7 +58,7 @@
     "js-tokens": "^4.0.0",
     "json-parse-even-better-errors": "^2.3.1",
     "lilconfig": "^2.0.4",
-    "lines-and-columns": "^1.2.4",
+    "lines-and-columns": "^2.0.0",
     "merge2": "^1.4.1",
     "micromatch": "^4.0.4",
     "minimist": "^1.2.5",
