@@ -79,7 +79,7 @@
     "postcss-selector-parser": "^6.0.8",
     "postcss-value-parser": "^4.2.0",
     "queue-microtask": "^1.2.3",
-    "quick-lru": "^5.1.1",
+    "quick-lru": "^6.0.0",
     "readdirp": "^3.6.0",
     "resolve": "^1.21.0",
     "resolve-from": "^4.0.0",
