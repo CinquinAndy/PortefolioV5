@@ -9,7 +9,7 @@
     "dotenv": "16.0.3",
     "glsl-shader-loader": "0.1.6",
     "laravel-mix": "6.0.49",
-    "node-sass": "7.0.3",
+    "node-sass": "8.0.0",
     "three": "0.149.0"
   },
   "browserslist": [
