@@ -104,60 +104,11 @@ function traitement_formulaire_contact()
                             }
                         }
 
-                        $email_message = "
-                            <html>
-                            <body>
-                            <div style = 'overflow: hidden;' >
-                            <font size = '-1' >
-                            <u ></u >
-                            <div style = 'margin:0;padding:10px 0' bgcolor = '#ffffff' marginwidth = '0' marginheight = '0' >
-                            <br >
-                            <table border = '0' width = '100%' height = '100%' cellpadding = '0' cellspacing = '0' bgcolor = '#ffffff' >
-                            <tbody ><tr > <td align = 'center' valign = 'top' bgcolor = '#ffffff' style = 'background-color:#ffffff' >
-                            <table border = '0' width = '600' cellpadding = '0' cellspacing = '0' bgcolor = '#ffffff' > <tbody ><tr >
-                            <td bgcolor = '#ffffff' style = 'background-color:#ffffff;padding-left:30px;padding-right:30px;font-size:14px;line-height:20px;font-family:Helvetica,sans-serif;color:#333' >
-                            <div style = 'text-align:center;margin-bottom:10px;margin-top:20px' >
-                            <img alt = ' ' height = '60' width = '250' style = 'height:60px;width:250px'
-                            src = 'https://andy-cinquin.fr/themes/andycinquin/assets/Ressources/icons/LogoCinquinAndy.svg' >
-                            </a >
-                            </div >
-                            Récapitulatif du mail en provenance de andy-cinquin.fr :
-                            <br ><br >
-                            Nom / Prénom : " . $name . "
-                            <br>
-                            Entreprise : " . $company . "
-                            <br>
-                            mail : <a style = 'font-style:italic;color:#627BDF'
-                            href = 'mailto:" . $email . "'>
-                            " . $email . "
-                            </a >
-                            <br>
-                            Tél : " . $phone . "
-                            <br>
-                            <br>
-                            Message :
-                            <br>
-                            <div style = 'text-align:center' >
-                            <font color = '#888888' >
-                            " . $message . "
-                            <br></font>
-                            <br>
-                            <br>
-                            </td>
-                            </tr>
-                            </tbody>
-                            </table>
-                            </td>
-                            </tr>
-                            </tbody>
-                            </table>
-                            <br>
-                            <br>
-                            </div>
-                            </font>
-                            </div>
-                            </body>
-                            </html>";
+                        $email_message = "Name : " . $name . "
+                            \n Company : " . $company . "
+                            \n Message : " . $message . "
+                            \n Email : " . $email . "
+                            \n Phone : " . $phone;
 
                         $secret_mail_private = env("WP_MAILGUN_PRIVATE", "");
                         $secret_mail_public = env("WP_MAILGUN_PUBLIC", "");
