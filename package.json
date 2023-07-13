@@ -5,7 +5,7 @@
     "dev": "mix watch"
   },
   "dependencies": {
-    "@tailwindcss/forms": "0.5.3",
+    "@tailwindcss/forms": "0.5.4",
     "dotenv": "16.3.1",
     "glsl-shader-loader": "0.1.6",
     "laravel-mix": "6.0.49",
