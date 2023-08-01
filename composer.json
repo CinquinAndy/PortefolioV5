@@ -28,7 +28,7 @@
         "roots/wp-password-bcrypt": "1.1.0",
         "symfony/http-client": "v6.3.2",
         "symfony/http-foundation": "v6.3.2",
-        "symfony/var-dumper": "v6.3.2",
+        "symfony/var-dumper": "v6.3.3",
         "vinkla/extended-acf": "13.6.0",
         "vlucas/phpdotenv": "v5.5.0"
     },
